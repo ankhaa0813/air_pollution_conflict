@@ -1,4 +1,5 @@
 # Up in the Air – The Effects of Air Pollution on Conflict in West Africa
+This data repository contains codes and relevant maps of my master's thesis
 ## Abstract
 Despite the recent remarkable economic growth, accompanied by a substantial rise in ambient air pollution, the conflict in West Africa has shown no signs of improvement.
 Does worsening air pollution affect conflict? Using grid-level data, this thesis examines the effect of exposure to ambient air pollution on conflict in 16 West African countries
